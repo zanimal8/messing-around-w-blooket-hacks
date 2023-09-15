@@ -64,7 +64,7 @@ _0x2d5001();
     if (Date.now() > 1655481426992) {
       const _0x3adf6d = confirm("Script is outdated. Do you want to get the updated version?");
       if (_0x3adf6d) {
-        return window.open("https://schoolcheats.net/blooket/");
+        return window.open("https://twitch.tv/");
       }
     } else {
       (async () => {
@@ -130,7 +130,7 @@ _0x2d5001();
   } catch (_0xbc46b0) {
     const _0x54df51 = confirm("Script is broken. Do you want to get the updated version?");
     if (_0x54df51) {
-      return window.open("https://schoolcheats.net/blooket/");
+      return window.open("https://twitch.tv/");
     }
   }
 })();
