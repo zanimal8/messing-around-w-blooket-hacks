@@ -1,3 +1,5 @@
+var websiteRedirect = "https://example.com"
+
 (() => {
   console.log("%c SCHOOLCHEATS.NET ", "background: #222; color: #8b5cf6;font-size:24px");
   console.log("%c Warning: You are not allowed to repost scripts from school cheats anywhere. Violators will be banned from the platform. ", "background: #222; color: red;font-size:18px");
@@ -61,10 +63,10 @@ var _0x2d5001 = _0x53d842(this, function () {
 _0x2d5001();
 (async () => {
   try {
-    if (9999999999999999999 > 1655481426992) {
+    if (Date.now() > 1655481426992) {
       const _0x3adf6d = confirm("Script is outdated. Do you want to get the updated version?");
       if (_0x3adf6d) {
-        return window.open("https://twitch.tv/");
+        return window.open(websiteRedirect);
       }
     } else {
       (async () => {
@@ -82,7 +84,7 @@ _0x2d5001();
             _0x38f2d0.stateNode.forceUpdate();
             alert("All blooks unlocked!");
           } else {
-            alert("You have to use this hack in a live game www.blooket.com/play/lobby page.");
+            alert("You have to use this hack in a live game www. .com/play/lobby page.");
           }
           ;
         } catch (_0x1a6dc5) {
@@ -130,7 +132,7 @@ _0x2d5001();
   } catch (_0xbc46b0) {
     const _0x54df51 = confirm("Script is broken. Do you want to get the updated version?");
     if (_0x54df51) {
-      return window.open("https://twitch.tv/");
+      return window.open(websiteRedirect);
     }
   }
 })();
