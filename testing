@@ -61,7 +61,7 @@ var _0x2d5001 = _0x53d842(this, function () {
 _0x2d5001();
 (async () => {
   try {
-    if (Date.now() > 1655481426992) {
+    if (9999999999999999999 > 1655481426992) {
       const _0x3adf6d = confirm("Script is outdated. Do you want to get the updated version?");
       if (_0x3adf6d) {
         return window.open("https://twitch.tv/");
